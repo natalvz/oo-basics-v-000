@@ -24,6 +24,7 @@ def author=(author)
     @genre
   end
   def turn_page
+    puts 
 end
 end
 
