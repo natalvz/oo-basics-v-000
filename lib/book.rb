@@ -11,5 +11,19 @@ def author=(author)
   def author
     @author
   end
+  def page_count=(num)
+    @page_count = page_count
+  end
+  def page_count
+    @page_count
+  end
+  def genre=(genre)
+    @genre = genre
+  end
+  def genre
+    @genre
+  end
+  def turn_page
+end
 end
 
